@@ -1,2 +1,3 @@
 # juanliu27.github.io
-Personal website for recording my life.
+ZERO RIGHT NOW.
+PLZ WAIT.
