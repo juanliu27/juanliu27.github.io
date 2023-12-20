@@ -2,8 +2,8 @@ navbar_entries:
   - title: resume
     url: resume
 
-  - title: blog
-    url: blog
+  # - title: blog
+  #   url: blog
 
 project_entries:
   - title: Vtuber Profitability
@@ -14,9 +14,9 @@ project_entries:
     url: https://github.com/juanliu27/weibo_spammer_behavior
     desc: Coursework of Principles and Applications of Data Visualization
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: Weibo-Trend-Predictions
+    url: https://github.com/juanliu27/Weibo-Trend-Predictions
+    desc: Coursework of Python and Big Data Analytics
 
 old_project_entries:
   - title: Soopr

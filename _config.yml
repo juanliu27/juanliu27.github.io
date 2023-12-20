@@ -3,7 +3,9 @@ author: Jingyuan Liu
 url: https:/juanliu27.github.io  # root address of the site
 description: > # description of the site (multiple lines allowed)
   I have obtained my bachelor's degrees in Data Science from University of International Business and Economics in June 2023 and I plan to search for further study in the field of Data Science. 
+  
   I am extremely interested in Large Language Models and currently working in a related natural language processing project in CASIA. 
+
   You can learn more about my project through this page and my Github. 
 
 permalink: /:slug
